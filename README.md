@@ -1,4 +1,4 @@
--  I am currently a second year Ph.D. student at Nanjing University, supervised by [Tong Lu](https://cs.nju.edu.cn/lutong/index.htm). 
+-  I am currently a second year Ph.D. student at Nanjing University, supervised by [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/index.htm). 
 -  I received my bachelor degree at the [Department of Computer Science and Technology](https://cs.nju.edu.cn), Nanjing University in 2020.
 
 <!--
